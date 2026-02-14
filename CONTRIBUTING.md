@@ -1,4 +1,4 @@
-# Vitest Contributing Guide
+DP@[c:=BTCZH21C]# Vitest Contributing Guide
 
 Hi! We are really excited that you are interested in contributing to Vitest. Before submitting your contribution, please make sure to take a moment and read through the following guide:
 
